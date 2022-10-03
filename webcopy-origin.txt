@@ -1,0 +1,104 @@
+Uri: http://fonts.googleapis.com/css?family=Open+Sans:600italic,400,800,700,300
+File Name: D:\сайты\test\css
+Content Type: text/css
+
+Uri: http://fonts.gstatic.com/s/opensans/v34/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkxhjWVAexQ.ttf
+File Name: D:\сайты\test\s\opensans\v34\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkxhjWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/opensans/v34/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+File Name: D:\сайты\test\s\opensans\v34\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/opensans/v34/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgshZ1x4gaVc.ttf
+File Name: D:\сайты\test\s\opensans\v34\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgshZ1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/opensans/v34/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4gaVc.ttf
+File Name: D:\сайты\test\s\opensans\v34\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/opensans/v34/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+File Name: D:\сайты\test\s\opensans\v34\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: http://maps.google.com/maps/api/js?sensor=true
+File Name: D:\сайты\test\maps\api\js
+Content Type: text/javascript
+
+Uri: http://test/
+File Name: D:\сайты\test\index.htm
+Content Type: text/html
+
+Uri: http://test/wp-content/themes/xgfprod/css/animate.min.css
+File Name: D:\сайты\test\wp-content\themes\xgfprod\css\animate.min.css
+Content Type: text/css
+
+Uri: http://test/wp-content/themes/xgfprod/css/bootstrap.min.css
+File Name: D:\сайты\test\wp-content\themes\xgfprod\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: http://test/wp-content/themes/xgfprod/css/font-awesome.min.css
+File Name: D:\сайты\test\wp-content\themes\xgfprod\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: http://test/wp-content/themes/xgfprod/css/responsive.css
+File Name: D:\сайты\test\wp-content\themes\xgfprod\css\responsive.css
+Content Type: text/css
+
+Uri: http://test/wp-content/themes/xgfprod/css/style.css
+File Name: D:\сайты\test\wp-content\themes\xgfprod\css\style.css
+Content Type: text/css
+
+Uri: http://test/wp-content/themes/xgfprod/fonts/fontawesome-webfont.eot?
+File Name: D:\сайты\test\wp-content\themes\xgfprod\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://test/wp-content/themes/xgfprod/fonts/fontawesome-webfont.eot?v=4.2.0
+File Name: D:\сайты\test\wp-content\themes\xgfprod\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://test/wp-content/themes/xgfprod/fonts/fontawesome-webfont.svg?v=4.2.0
+File Name: D:\сайты\test\wp-content\themes\xgfprod\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: http://test/wp-content/themes/xgfprod/fonts/fontawesome-webfont.ttf?v=4.2.0
+File Name: D:\сайты\test\wp-content\themes\xgfprod\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: http://test/wp-content/themes/xgfprod/fonts/fontawesome-webfont.woff?v=4.2.0
+File Name: D:\сайты\test\wp-content\themes\xgfprod\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: http://test/wp-content/themes/xgfprod/fonts/glyphicons-halflings-regular.eot
+File Name: D:\сайты\test\wp-content\themes\xgfprod\fonts\glyphicons-halflings-regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://test/wp-content/themes/xgfprod/fonts/glyphicons-halflings-regular.eot?
+File Name: D:\сайты\test\wp-content\themes\xgfprod\fonts\glyphicons-halflings-regular-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://test/wp-content/themes/xgfprod/fonts/glyphicons-halflings-regular.svg
+File Name: D:\сайты\test\wp-content\themes\xgfprod\fonts\glyphicons-halflings-regular.svg
+Content Type: image/svg+xml
+
+Uri: http://test/wp-content/themes/xgfprod/fonts/glyphicons-halflings-regular.ttf
+File Name: D:\сайты\test\wp-content\themes\xgfprod\fonts\glyphicons-halflings-regular.ttf
+Content Type: font/ttf
+
+Uri: http://test/wp-content/themes/xgfprod/fonts/glyphicons-halflings-regular.woff
+File Name: D:\сайты\test\wp-content\themes\xgfprod\fonts\glyphicons-halflings-regular.woff
+Content Type: font/woff
+
+Uri: http://test/wp-content/themes/xgfprod/js/modernizr.js
+File Name: D:\сайты\test\wp-content\themes\xgfprod\js\modernizr.js
+Content Type: application/javascript
+
+Uri: http://test/wp-content/uploads/2022/10/изображение_2022-10-03_094503717.png
+File Name: D:\сайты\test\wp-content\uploads\2022\10\изображение_2022-10-03_094503717.png
+Content Type: image/png
+
+Uri: http://test/wp-content/uploads/2022/10/imgonline-com-ua-Resize-NO6VmEpq9e5.png
+File Name: D:\сайты\test\wp-content\uploads\2022\10\imgonline-com-ua-Resize-NO6VmEpq9e5.png
+Content Type: image/png
+
